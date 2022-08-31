@@ -13,7 +13,7 @@ This Project is a Simple Static Non-Responsive webpage created by using just HTM
 - Position 
 - Navbar Designing 
 
-## Preview |     [Live Link]()
+## Preview |     [Live Link](https://05-cloudcomputing-webpage.netlify.app/)
 ***
 ![ScreenShot](./ScreenShot.PNG)
 
